@@ -1,0 +1,195 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MinefieldV2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GridWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="GridHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="GridMines" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="TileColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="GridColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DimGray</Value>
+    </Setting>
+    <Setting Name="GridStartX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">228</Value>
+    </Setting>
+    <Setting Name="GridStartY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">484</Value>
+    </Setting>
+    <Setting Name="Bomb" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tank_forward" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="tank_backwards" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="tank_left" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="tank_right" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="gameTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="GridStartEnemyY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="enemytank_forward" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="enemytank_backwards" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="enemytank_left" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="enemytank_right" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="levelDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="levelPoints" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="firstplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mike</Value>
+    </Setting>
+    <Setting Name="firstplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="firstplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="firstplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hard</Value>
+    </Setting>
+    <Setting Name="secondplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nick</Value>
+    </Setting>
+    <Setting Name="secondplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="secondplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hard</Value>
+    </Setting>
+    <Setting Name="secondplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="thirdplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Steve</Value>
+    </Setting>
+    <Setting Name="thirdplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="thirdplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hard</Value>
+    </Setting>
+    <Setting Name="thirdplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="fourthplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sam</Value>
+    </Setting>
+    <Setting Name="fourthplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="fourthplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hard</Value>
+    </Setting>
+    <Setting Name="fourthplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="fithplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sam</Value>
+    </Setting>
+    <Setting Name="fithplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="fithplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="fithplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="sixthplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Liam</Value>
+    </Setting>
+    <Setting Name="sixthplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="sixthplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="sixthplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="seventhplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mo</Value>
+    </Setting>
+    <Setting Name="seventhplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="seventhplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="seventhplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="eigthplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kieran</Value>
+    </Setting>
+    <Setting Name="eigthplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="eithplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="eithplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="ninthplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nathanial</Value>
+    </Setting>
+    <Setting Name="ninthplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ninthplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="ninthplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="lastplaceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mason</Value>
+    </Setting>
+    <Setting Name="lastplaceLevels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="lastplaceDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="lastplaceScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="tempFinalScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tempLevelDifficulty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Easy</Value>
+    </Setting>
+    <Setting Name="tempLevelsWon" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

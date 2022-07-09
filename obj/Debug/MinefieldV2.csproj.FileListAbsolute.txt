@@ -1,0 +1,39 @@
+C:\Users\mike\source\repos\MinefieldV2\bin\Debug\MinefieldV2.exe.config
+C:\Users\mike\source\repos\MinefieldV2\bin\Debug\MinefieldV2.exe
+C:\Users\mike\source\repos\MinefieldV2\bin\Debug\MinefieldV2.pdb
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.csproj.AssemblyReference.cache
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.Minefield.resources
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.Properties.Resources.resources
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.csproj.GenerateResource.cache
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.exe
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.pdb
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.FinalScore.resources
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.Scoreboard.resources
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.About.resources
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.Instructions.resources
+C:\Users\mike\source\repos\MinefieldV2\bin\Debug\Interop.WMPLib.dll
+C:\Users\mike\source\repos\MinefieldV2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\Interop.WMPLib.dll
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mike\source\repos\MinefieldV2\obj\Debug\MinefieldV2.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\bin\Debug\MinefieldV2.exe.config
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\bin\Debug\MinefieldV2.exe
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\bin\Debug\MinefieldV2.pdb
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.About.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.FinalScore.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.Instructions.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.Minefield.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.Scoreboard.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.exe
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\MinefieldV2\obj\Debug\MinefieldV2.pdb
