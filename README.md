@@ -6,7 +6,7 @@ I was tasked by the University of South Wales to develop a basic minefield (not 
 <br></br>
 <br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.01.jpg" width"60px" height="60px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.01.jpg" width"60px" height="140px"/>
 </p>
 <br></br>
 <h2 align="left">Description</h1>
