@@ -62,7 +62,6 @@ Higher marks required further independent development of the application. Marks 
 <br></br>
 <h2 align="left">Images</h1>
 
-<p align="center">
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.01.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.45.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.41.11.jpg" width="10%"/>
@@ -78,7 +77,6 @@ Higher marks required further independent development of the application. Marks 
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.46.44.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.46.59.jpg" width="10%"/>
 
-</p>
 <br></br>
 <h2 align="left">Getting Started</h1>
 
