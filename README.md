@@ -45,22 +45,16 @@ Higher marks required further independent development of the application. Marks 
 
 <h3 align="left">Features Implemented</h3>
 <ul>
-<li>Provide a target location [YES/NO] [INSTEAD VISIT TILES TILL % REACHES 20]</li>
-<li>Add a reset/start button [YES]</li>
-<li>Add sounds? [YES]</li>
-<li>Improve the way bombs are shown [YES]</li>
-<li>Add levels – more bombs = harder [YES]</li>
-<li>Add a timer – for more pressure! [YES]</li>
-<li>Add levels – less time = harder [YES]</li>
-<li>Add a ‘peek’ function – but it can only be used once/occasionally [YES]</li>
-<li>Add high scores [YES]</li>
-<li>At hard level sometimes randomly wipe the trail ! [YES]</li>
-<li>Add colours to also show proximal bomb count [YES]</li>
-<li>Make sure bombs are not surrounding the start and end point [YES]</li>
-<li>After a while a “chaser-bot” comes on and moves around the trail hunting you down(ok that’s pretty advanced! – but still do-able in theory!) [YES]</li>
+<li>Visit 20% of the available tiles to proceed to the next level within the time limit!</li>
+<li>Easy, Medium & Expert levels with different tile sizes and amount of bombs</li>
+<li>Scoring System</li>
+<li>Take a 'peek' of what you are up against. Note you only can peek 3 times!</li>
+<li>At higher levels the tiles you visited will randomly disappear</li>
+<li>Show amount of bombs within proximity of your tank!</li>
+<li>At higher levels a chaser bot will come hunt you down!</li>
 </ul>
 <br></br>
-<h2 align="left">Images</h1>
+<h2 align="left">Images</h2>
 
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.01.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.40.45.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.41.11.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.41.21.jpg" width="45%" hspace="10"/>
@@ -69,6 +63,11 @@ Higher marks required further independent development of the application. Marks 
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.42.55.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.43.22.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.43.35.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.45.24.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.46.44.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/11/Screenshot-2022-08-02-at-15.46.59.jpg" width="45%" hspace="10"/>
+<h2 align="left">Video</h2>
+
+
+https://github.com/michaelkeates/Minefield/assets/103878560/82e86506-9ef3-4da3-87a1-367e4e1986ee
+
 
 <br></br>
 <h2 align="left">Getting Started</h1>
