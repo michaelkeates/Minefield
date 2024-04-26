@@ -2,25 +2,7 @@
   <img src="https://www.michaelkeates.co.uk/_next/image?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F512184088%2F32eeb148-017a-44bf-8b9b-caa71611062e&w=640&q=75" width="300px" height="300px"/>
 </p>
 <h1 align="center">Minefield</h1>
-<p align="center">
 
-<a href="http://unlicense.org/">
-<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
-</a>
-
-<a href="https://github.com/michaelkeates/Minefield/issues">
-<img src="https://img.shields.io/github/issues/michaelkeates/Minefield.svg" alt="Issues">
-</a>
-
-<a href="https://github.com/michaelkeates/Minefield/fork">
-<img src="https://img.shields.io/github/forks/michaelkeates/Minefield.svg" alt="Forks">
-</a>
-
-<a href="https://github.com/michaelkeates/Minefield">
-<img src="https://img.shields.io/github/stars/michaelkeates/Minefield.svg" alt="Stars">
-</a>
-
-</p>
 I was tasked by the University of South Wales to develop a basic minefield (not minesweeper!) style program/game using C#.NET. The aim is to show how the use of variables and more complex data structures like arrays and lists, and a wide range of programming elements such as statements, loops, branches, procedures, and files, all need to work together to achieve the final goal.
 <br></br>
 <br></br>
